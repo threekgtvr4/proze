@@ -1,0 +1,12 @@
+Proze - PROject organiZEr
+-------------------------
+  Proze will be a project environment to help keep track of everything in your
+  project, no matter what kind of project you are creating; i.e. programming,
+  electronics, books, video, audio, animation.
+
+  See "notes" for more information
+
+Dependencies
+------------
+  Python  >= 3
+  PyQt    >= 4
